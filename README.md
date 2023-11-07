@@ -3,6 +3,6 @@ I'm interested in things that have the power to alter the course of history or t
 
 
 ## View my projects: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTU0dnJremQzNHEyMWFheTVhbjd3b3lhNXV3emR2MmZwcWhtMW5zaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CcRXj2hW92TvdXVlys/giphy.gif"></a>
-- 1️⃣ A Reddit alternative <a https://breadit-delta-steel.vercel.app/">Breadit</a> 📹 ✍🏾
-- 2️⃣ A Netflix alternative <a https://discord-production-4bd4.up.railway.app/">Breadsticks</a> 🏓
-- 3️⃣ An Airbnb alternative <a https://airbnb-vert-three.vercel.app/">Ate Bread with Breakfast</a> 💼
+- 1️⃣ A Reddit alternative <a href="https://breadit-delta-steel.vercel.app/">Breadit</a>
+- 2️⃣ A Netflix alternative <a href="https://discord-production-4bd4.up.railway.app/">Breadsticks</a>
+- 3️⃣ An Airbnb alternative <a href="https://airbnb-vert-three.vercel.app/">Ate Bread with Breakfast</a>
